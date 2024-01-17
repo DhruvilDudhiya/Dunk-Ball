@@ -1,0 +1,47 @@
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	
+	<title>My Game</title>
+
+	<script src="lib/phaser.min.js"></script>
+	<script src="src/components/UserComponent.js"></script>
+	<script src="src/components/PushOnClick.js"></script>
+	<script src="src/components/PreloadText.js"></script>
+	<script src="src/scenes/Preload.js"></script>
+	<script src="src/scenes/Level.js"></script>
+	<script src="src/scenes/First.js"></script>
+	<script src="src/scenes/ResultScene.js"></script>
+	<script src="src/main.js"></script>
+	<script> var game </script>
+	<link rel="stylesheet preload" as="font" href="assets/font/Comica_BD_Bold.ttf" type="font/ttf" crossorigin />
+
+	<style>
+		@font-face {
+			font-family: 'Courier';
+			src: url('assets/font/Comica_BD_Bold.ttf');
+		}
+
+		body {
+			background-image: url(assets/images1/GameplayBackground.png);
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: center center;
+			margin: 0;
+			padding: 0;
+		}
+		.overlay { position:fixed; top:0; left:0; width:100vw; height:100vh; }
+		.overlay:after { position:absolute; top:0; left:calc(50% + 249px); background:rgba(0, 0, 0, 0.3); content:''; width:50vw; height:100vh  }
+		.overlay:before { position:absolute; top:0; right:calc(50% + 249px); background:rgba(0, 0, 0, 0.3); content:''; width:50vw; height:100vh  }
+		canvas { position:relative; z-index:999; }
+	</style>
+</head>
+
+<body>
+	<div class="overlay"></div>
+</body>
+
+</html>

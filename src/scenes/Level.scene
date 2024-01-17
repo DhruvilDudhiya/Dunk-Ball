@@ -1,0 +1,150 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level",
+        "borderWidth": 1080,
+        "borderHeight": 1920
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "5d8f3873-3921-41b5-8519-a068ee45fa90",
+            "label": "container_1",
+            "components": [],
+            "visible": false,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "5c892695-3899-4ff2-a5a6-8f832eae115c",
+                    "label": "board_",
+                    "components": [],
+                    "texture": {
+                        "key": "Board-"
+                    },
+                    "x": 217,
+                    "y": 103,
+                    "scaleX": 0.5,
+                    "scaleY": 0.5
+                },
+                {
+                    "type": "Image",
+                    "id": "69fce4d0-a4d7-4fd4-bc4d-39eaed04f30a",
+                    "label": "net_1",
+                    "components": [],
+                    "texture": {
+                        "key": "Net-1"
+                    },
+                    "x": 98,
+                    "y": 255,
+                    "scaleX": 0.5,
+                    "scaleY": 0.5
+                },
+                {
+                    "type": "Image",
+                    "id": "7d1ce087-abc3-47c8-a02a-9fff739e80e1",
+                    "label": "net",
+                    "components": [],
+                    "texture": {
+                        "key": "net"
+                    },
+                    "x": 88,
+                    "y": 161,
+                    "scaleX": 0.5,
+                    "scaleY": 0.5
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "015be100-a078-4f97-b715-2ebfe207f7c4",
+            "label": "btnCont",
+            "components": [],
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "ea3ca94c-4759-4b95-90f4-76d843767e9b",
+                    "label": "sound",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "Sound-button-"
+                    },
+                    "x": 165,
+                    "y": 110,
+                    "scaleX": 0.7,
+                    "scaleY": 0.7
+                },
+                {
+                    "type": "Image",
+                    "id": "9a520b81-50c7-4f25-94be-97119098def9",
+                    "label": "sound_Off",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "sound-Off-"
+                    },
+                    "x": 165,
+                    "y": 110,
+                    "scaleX": 0.65,
+                    "scaleY": 0.65,
+                    "visible": false
+                },
+                {
+                    "type": "Image",
+                    "id": "db6def35-fbb0-4233-8f85-2467ea3e057e",
+                    "label": "pause_ui",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "Pause-button"
+                    },
+                    "x": 930,
+                    "y": 110,
+                    "scaleX": 0.7,
+                    "scaleY": 0.7
+                },
+                {
+                    "type": "Image",
+                    "id": "01578ad1-f66b-47ee-8883-d6cf29989f81",
+                    "label": "play_button",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "Play-button"
+                    },
+                    "x": 930,
+                    "y": 110,
+                    "scaleX": 0.65,
+                    "scaleY": 0.65,
+                    "visible": false
+                }
+            ]
+        },
+        {
+            "type": "Text",
+            "id": "39369690-504d-4188-9bc9-babb2f6ba009",
+            "label": "scoreText",
+            "scope": "CLASS",
+            "components": [],
+            "x": 540,
+            "y": 229,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "0",
+            "align": "center",
+            "fontSize": "130px",
+            "stroke": "#000000ff",
+            "strokeThickness": 13
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images1/For-loading-(basketball).png",
+                "type": "image",
+                "key": "For-loading-(basketball)"
+            },
+            {
+                "url": "assets/images/Loading.png",
+                "type": "image",
+                "key": "Loading"
+            },
+            {
+                "url": "assets/Loading-bar1.png",
+                "type": "image",
+                "key": "Loading-bar1"
+            },
+            {
+                "url": "assets/Loading1.png",
+                "type": "image",
+                "key": "Loading1"
+            },
+            {
+                "url": "assets/Logo1.png",
+                "type": "image",
+                "key": "Logo1"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

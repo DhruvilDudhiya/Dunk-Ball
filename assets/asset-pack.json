@@ -1,0 +1,282 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/images/b1.png",
+                "type": "image",
+                "key": "b1"
+            },
+            {
+                "url": "assets/images/ball1.png",
+                "type": "image",
+                "key": "ball1"
+            },
+            {
+                "url": "assets/images/basket1.png",
+                "type": "image",
+                "key": "basket1"
+            },
+            {
+                "url": "assets/images1/Basketball-.png",
+                "type": "image",
+                "key": "Basketball-"
+            },
+            {
+                "url": "assets/images1/Best-text.png",
+                "type": "image",
+                "key": "Best-text"
+            },
+            {
+                "url": "assets/images/bg_image.jpg",
+                "type": "image",
+                "key": "bg_image"
+            },
+            {
+                "url": "assets/images/board.png",
+                "type": "image",
+                "key": "board"
+            },
+            {
+                "url": "assets/images1/Board-.png",
+                "type": "image",
+                "key": "Board-"
+            },
+            {
+                "url": "assets/font/Comica_BD_Bold.ttf",
+                "type": "binary",
+                "key": "Comica_BD_Bold"
+            },
+            {
+                "url": "assets/images/eBar1.png",
+                "type": "image",
+                "key": "eBar1"
+            },
+            {
+                "url": "assets/images/eCont1.png",
+                "type": "image",
+                "key": "eCont1"
+            },
+            {
+                "url": "assets/images/fire-partical.png",
+                "type": "image",
+                "key": "fire-partical"
+            },
+            {
+                "url": "assets/images1/For-gameplay-bg(main).png",
+                "type": "image",
+                "key": "For-gameplay-bg(main)"
+            },
+            {
+                "url": "assets/images/g1.png",
+                "type": "image",
+                "key": "g1"
+            },
+            {
+                "url": "assets/images/game paused.png",
+                "type": "image",
+                "key": "game paused"
+            },
+            {
+                "url": "src/script/GameManager.js",
+                "type": "script",
+                "key": "GameManager"
+            },
+            {
+                "url": "assets/images/gameover.png",
+                "type": "image",
+                "key": "gameover"
+            },
+            {
+                "url": "assets/images1/GameplayBackground.png",
+                "type": "image",
+                "key": "GameplayBackground"
+            },
+            {
+                "url": "assets/images1/Gameplaybg.png",
+                "type": "image",
+                "key": "Gameplaybg"
+            },
+            {
+                "url": [
+                    "assets/sound/hit_bll.wav"
+                ],
+                "type": "audio",
+                "key": "hit_bll"
+            },
+            {
+                "url": "src/prefab/LeftBasketPrefab.js",
+                "type": "script",
+                "key": "LeftBasketPrefab"
+            },
+            {
+                "url": "assets/images/line.png",
+                "type": "image",
+                "key": "line"
+            },
+            {
+                "url": "assets/images1/Loading-.png",
+                "type": "image",
+                "key": "Loading-"
+            },
+            {
+                "url": "assets/images1/Loading-bar.png",
+                "type": "image",
+                "key": "Loading-bar"
+            },
+            {
+                "url": "assets/images1/Logo.png",
+                "type": "image",
+                "key": "Logo"
+            },
+            {
+                "url": "assets/images/logo1.png",
+                "type": "image",
+                "key": "logo1"
+            },
+            {
+                "url": "assets/images/logo2.png",
+                "type": "image",
+                "key": "logo2"
+            },
+            {
+                "url": "assets/images/mute_ui.png",
+                "type": "image",
+                "key": "mute_ui"
+            },
+            {
+                "url": "assets/images1/net.png",
+                "type": "image",
+                "key": "net"
+            },
+            {
+                "url": "assets/images1/Net-1.png",
+                "type": "image",
+                "key": "Net-1"
+            },
+            {
+                "url": "assets/images/partical1.png",
+                "type": "image",
+                "key": "partical1"
+            },
+            {
+                "url": "assets/images/partical2.png",
+                "type": "image",
+                "key": "partical2"
+            },
+            {
+                "url": "assets/images/Pause_ui.png",
+                "type": "image",
+                "key": "Pause_ui"
+            },
+            {
+                "url": "assets/images1/Pause-button.png",
+                "type": "image",
+                "key": "Pause-button"
+            },
+            {
+                "url": "assets/images/play again.png",
+                "type": "image",
+                "key": "play again"
+            },
+            {
+                "url": "assets/images/Play_ui.png",
+                "type": "image",
+                "key": "Play_ui"
+            },
+            {
+                "url": "assets/images1/Play-button.png",
+                "type": "image",
+                "key": "Play-button"
+            },
+            {
+                "url": "assets/images/Play2_ui.png",
+                "type": "image",
+                "key": "Play2_ui"
+            },
+            {
+                "url": "assets/images/Playfont.png",
+                "type": "image",
+                "key": "Playfont"
+            },
+            {
+                "url": "assets/images1/Repeat-button.png",
+                "type": "image",
+                "key": "Repeat-button"
+            },
+            {
+                "url": "assets/images/Replay_ui.png",
+                "type": "image",
+                "key": "Replay_ui"
+            },
+            {
+                "url": "src/prefab/RightBasketPrefab.js",
+                "type": "script",
+                "key": "RightBasketPrefab"
+            },
+            {
+                "url": "src/animation/ring_animation.json",
+                "type": "animation",
+                "key": "ring_animation"
+            },
+            {
+                "url": "assets/images1/Ring-1.png",
+                "type": "image",
+                "key": "Ring-1"
+            },
+            {
+                "url": "assets/images1/Ring-2.png",
+                "type": "image",
+                "key": "Ring-2"
+            },
+            {
+                "url": "assets/images1/Ring-3.png",
+                "type": "image",
+                "key": "Ring-3"
+            },
+            {
+                "url": "assets/images1/round-black.png",
+                "type": "image",
+                "key": "round-black"
+            },
+            {
+                "url": "assets/images1/Score-text.png",
+                "type": "image",
+                "key": "Score-text"
+            },
+            {
+                "url": "assets/images1/Sound-button-.png",
+                "type": "image",
+                "key": "Sound-button-"
+            },
+            {
+                "url": "assets/images1/sound-Off-.png",
+                "type": "image",
+                "key": "sound-Off-"
+            },
+            {
+                "url": "assets/images/tap.png",
+                "type": "image",
+                "key": "tap"
+            },
+            {
+                "url": "assets/images/ui3.png",
+                "type": "image",
+                "key": "ui3"
+            },
+            {
+                "url": [
+                    "assets/sound/Whistle.mp3"
+                ],
+                "type": "audio",
+                "key": "Whistle"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

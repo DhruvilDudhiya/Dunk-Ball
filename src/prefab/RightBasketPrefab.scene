@@ -1,0 +1,68 @@
+{
+    "id": "2859ae5c-89c9-4b13-905e-e899db112c52",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "bf9a52cf-179b-450c-b878-595d6a13d884",
+            "label": "basketCont",
+            "scope": "CLASS",
+            "components": [],
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "56420a38-cfe5-466a-9097-7e797a665ac7",
+                    "label": "board",
+                    "components": [],
+                    "texture": {
+                        "key": "Board-"
+                    },
+                    "x": 141,
+                    "y": 62,
+                    "scaleX": 0.3,
+                    "scaleY": 0.3
+                },
+                {
+                    "type": "Image",
+                    "id": "f027a298-6c74-4464-aea6-1a6a797b38c8",
+                    "label": "net1",
+                    "components": [],
+                    "texture": {
+                        "key": "Net-1"
+                    },
+                    "x": 60,
+                    "y": 150,
+                    "scaleX": 0.3,
+                    "scaleY": 0.3
+                },
+                {
+                    "type": "Image",
+                    "id": "887d48b7-ab5a-474a-8a61-facb38e384db",
+                    "label": "net",
+                    "components": [],
+                    "texture": {
+                        "key": "net"
+                    },
+                    "x": 54,
+                    "y": 94,
+                    "scaleX": 0.3,
+                    "scaleY": 0.3
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}
